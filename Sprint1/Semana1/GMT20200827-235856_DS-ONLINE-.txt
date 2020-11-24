@@ -1,0 +1,6 @@
+00:41:03	Carlos Andres Mejia:	Las duplas se pueden utilizar para definir parámetros invariables?
+00:41:11	Carlos Andres Mejia:	Tuplas
+01:01:24	Carlos Andres Mejia:	Dentro del comando PRINT, no se realizan Operaciones matemáticas?
+01:47:31	Alexander Valencia:	Carolina tengo una pregunta con el ambiente
+01:49:22	Alexander Valencia:	ya me funcionó
+01:59:57	damian taubaso:	for i in range(0,100):  i = 3+i  print(i)
