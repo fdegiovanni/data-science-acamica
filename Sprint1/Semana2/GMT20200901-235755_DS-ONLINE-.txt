@@ -1,0 +1,8 @@
+02:19:33	Federico Degiovanni:	Ese ejercicio lo hice asi...
+
+zeros = np.zeros((3,3), int)
+zeros[0:3,1] = np.arange(1,4)
+print(zeros)
+02:27:12	Sandra:	El ej. 6 se puede asi:  np.eye(100,100,0)
+02:31:42	Claudia Alvarez:	suma = 0for numero in numeros_en_texto:    if numero == '1' or numero == '3':        suma = suma + int(numero)print(suma)
+02:31:47	Claudia Alvarez:	Así lo hice yo
