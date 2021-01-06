@@ -1,0 +1,10 @@
+00:14:35	Carlos Andres Mejia:	muestras_dado2 = np.random.choice([1,2,3,4,5,6,6,6,6], size = 20)
+print(muestras_dado2)
+print(muestras_dado2.mean())
+print(muestras_dado2.std(ddof=1))
+00:30:03	Claudia Alvarez:	cecaf. Casa donde se acuñaba la moneda.de la ceca a la Meca loc. adv. col. De una parte a otra, de aquí para allá:"cada vez que voy a esa oficina me paso la mañana de la ceca a la Meca entre ventanillas"
+00:45:50	Claudia Alvarez:	https://www.tylervigen.com/spurious-correlations 
+01:59:27	Damián Taubaso:	from google.colab import filesuploaded = files.upload()
+01:59:35	Damián Taubaso:	import iodata = pd.read_csv(io.BytesIO(uploaded["DS_Bitacora_04_Iris.csv"]))
+02:18:00	Claudia Alvarez:	dado = np.random.choice([1,2,3,4,5,6], size = 15, p=[0.15, 0.15, 0.15, 0.15, 0.15, 0.25])
+02:19:49	Francisco Negrisoli:	muestras_dado1 = np.random.randint(1,7, size = 15)
